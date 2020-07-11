@@ -3,15 +3,18 @@ Hello, I'm Aikar. Been around the block in open source for a long time bouncing 
 
 My specialty is in performance optimizations, but also DEATH TO BOILERPLATE software libraries.
 
-Check out Paper for the highest performance Minecraft Server Software.
-[![PaperMC](https://papermc.io/images/logo-marker.svg?v=2ca03d456bd669f9 "PaperMC Minecraft Server")](https://papermc.io)
 
  * [aikar.co](https://aikar.co) - My Personal and mostly dormant blog I occasionally rant.
  * [empireminecraft.com](https://lp.emc.gs) - My Minecraft Server, Empire Minecraft
  * [My Minecraft JVM Flags Guide](https://mcflags.emc.gs)
- * Want to donate? 
  
- [![Donate to Aikar](https://aikar.co/donate.png?x12864)](https://donate.emc.gs/GitHub)
+ 
+ | Paper | Donate | Empire Minecraft |
+ | :-: | :-: | :-: |
+ | Check out Paper for the highest 
+ performance Minecraft Server Software. | Want to donate? | Try out my Survival Server |
+ | [![PaperMC](https://avatars2.githubusercontent.com/u/7608950?s=120&v=4 "PaperMC Minecraft Server")](https://papermc.io) | [![Donate to Aikar](https://aikar.co/donate.png?x12864)](https://donate.emc.gs/GitHub) | [![PaperMC](https://empireminecraft.com/static/emcsquare.ico "Empire Minecraft Server")](https://lp.emc.gs) |
+ 
  
  Check out pinned repo's for some of my most recent work.
 <!--

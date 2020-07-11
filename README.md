@@ -11,8 +11,7 @@ My specialty is in performance optimizations, but also DEATH TO BOILERPLATE soft
  
  | Paper | Donate | Empire Minecraft |
  | :-: | :-: | :-: |
- | Check out Paper for the highest 
- performance Minecraft Server Software. | Want to donate? | Try out my Survival Server |
+ | Paper, the highest performance Minecraft Server | Want to donate? | Try out my Survival Server |
  | [![PaperMC](https://avatars2.githubusercontent.com/u/7608950?s=120&v=4 "PaperMC Minecraft Server")](https://papermc.io) | [![Donate to Aikar](https://aikar.co/donate.png?x12864)](https://donate.emc.gs/GitHub) | [![PaperMC](https://empireminecraft.com/static/emcsquare.ico "Empire Minecraft Server")](https://lp.emc.gs) |
  
  

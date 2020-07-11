@@ -1,5 +1,19 @@
 ### Hi there 👋
+Hello, I'm Aikar. Been around the block in open source for a long time bouncing between a few game projects. Most of my focus is in Minecraft for the most recent years. Many in the developer community here should know me for my work on Paper (and previously Spigot), working to improve the server performance.
 
+My specialty is in performance optimizations, but also DEATH TO BOILERPLATE software libraries.
+
+Check out Paper for the highest performance Minecraft Server Software.
+[![PaperMC](https://papermc.io/images/logo-marker.svg?v=2ca03d456bd669f9 "PaperMC Minecraft Server")](https://papermc.io)
+
+ * [aikar.co](https://aikar.co) - My Personal and mostly dormant blog I occasionally rant.
+ * [empireminecraft.com](https://lp.emc.gs) - My Minecraft Server, Empire Minecraft
+ * [My Minecraft JVM Flags Guide](https://mcflags.emc.gs)
+ * Want to donate? 
+ 
+ [![Donate to Aikar](https://aikar.co/donate.png?x12864)](https://donate.emc.gs/GitHub)
+ 
+ Check out pinned repo's for some of my most recent work.
 <!--
 **aikar/aikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

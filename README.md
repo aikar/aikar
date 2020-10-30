@@ -13,9 +13,11 @@ My specialty is in performance optimizations, but also DEATH TO BOILERPLATE soft
  | :-: | :-: | :-: |
  | Paper, the highest performance Minecraft Server | Want to donate? | Try out my Survival Server |
  | [![PaperMC](https://avatars2.githubusercontent.com/u/7608950?s=120&v=4 "PaperMC Minecraft Server")](https://papermc.io) | [![Donate to Aikar](https://aikar.co/donate.png?x12864)](https://donate.emc.gs/GitHub)<br>[![GitHub Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=Aikar%20%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/aikar/)](http://github.com/sponsors/aikar)| [![PaperMC](https://empireminecraft.com/static/emcsquare.ico "Empire Minecraft Server")](https://lp.emc.gs) |
- 
+ | | ![Aikar Stats](https://github-readme-stats.vercel.app/api?username=aikar&show_icons=true) | |
  
  Check out pinned repo's for some of my most recent work.
+ 
+ 
 <!--
 **aikar/aikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
